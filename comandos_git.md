@@ -28,6 +28,13 @@ y si es VIM esc + :wq
 - git log 
 - git log --oneline
 
+## Comando para cambiar de version 
+- git checkout <Id o nombre de la rama>
+- 
+
+
+
+
 ## Para crear una version de nuestro codigo 
 1. Agregar todos los archivos al commit 
     - git add . 
