@@ -20,12 +20,23 @@ y si es VIM esc + :wq
 ## Como iniciar git en un directorio 
 
 - git init
+## Comando para saber el estado de nuestros archivos
+
+- git status
+
+## Comando para listar versiones en mi proyecto 
+- git log 
+- git log --oneline
 
 ## Para crear una version de nuestro codigo 
 1. Agregar todos los archivos al commit 
-    - git add. 
-    - git add *.js
+    - git add . 
+    - git add * .js
     - git add index.js
-    
+
+2. Crear una nueva version (tomar la foto del codigo ) 
+- git commit -m "Nombre del commit"
+
+
 
 
