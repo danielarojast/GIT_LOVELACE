@@ -30,7 +30,6 @@ y si es VIM esc + :wq
 
 ## Comando para cambiar de version 
 - git checkout <Id o nombre de la rama>
-- 
 
 
 
@@ -43,6 +42,7 @@ y si es VIM esc + :wq
 
 2. Crear una nueva version (tomar la foto del codigo ) 
 - git commit -m "Nombre del commit"
+
 
 
 
